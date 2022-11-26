@@ -8,7 +8,7 @@ current description of the problem.
 If interested in my comments, I invite you to read the following post
 in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/11/26/longest-absolute-file-path-c-and-java-revisited/
 
 Keep in mind that one of the best ways to learn is to read, expriment, and write.
 If you can't explain it simply, you don't understand it well enough (Albert Einstein).
